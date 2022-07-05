@@ -1,0 +1,21 @@
+body {
+      text-align: center;
+      background-color: #F7D08A;
+}
+
+h1,
+h2 {
+      color: #9D5C0D;
+}
+
+img {
+      max-width: 200px;
+}
+
+a {
+      color: #E5890A;
+}
+
+a:hover {
+      color: #FAFAFA;
+}
